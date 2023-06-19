@@ -2,9 +2,9 @@
                             
 <h4 align="center">MERN stack web developer oriented to frontend ❤️ <br> I like working on new ideas</h4>
 
-<p align="center"><a href="https://avipatilweb.ml/"><img src="https://sdk.bitmoji.com/render/panel/20054902-540794643_12-s5-v1.png?transparent=1&palette=1&scale=2" alt="Hello" width="225" height="225"/></a></p><br>
+<p align="center"><a href="https://avipatilweb.ml/"><img src="https://github.com/iibtsamkhan/iibtsamkhan/assets/66584040/4f2d619e-de60-462e-a1ea-ada4a7d65de7" alt="Hello" width="225" height="225"/></a></p><br>
 
-Here are some suggestions for getting to know me better. 
+Here are some suggestions for getting to know me better: 
 
 - 🔭 I’m currently working on 3D customization tool & WordPress cms
 - 🌱 I’m currently learning Front-End Development especially ThreeJs
