@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI Automation in reverse recruitment industry<br>👯 I’m looking to collaborate on AI agents, MCP's, Automation Workflows, N8N, SAAS<br>🤝 I’m looking forward to work with people who have keen passion for innovation.<br>🌱 I’m currently learning Claude API, OpenClaw, N8N & AI Automation in WordPress<br>💬 Ask me about anything you like to know<br>⚡ Fun fact: I'm a SAAS Founder/CTO @Careerify | Full Stack Developer<br>😄 LinkedIn : https://www.linkedin.com/in/ibtsam-ishtiaq/<br>⚡ Do follow or connect me I'm open to suggestions and collaboration<br><br>Hire me for any freelance project or startup collaboration. Just hit me up if you need my services!
+🔭 I’m currently working on AI Automation in reverse recruitment industry<br>👯 I’m looking to collaborate on AI agents, MCP's, Automation Workflows, N8N, SAAS<br>🤝 I’m looking forward to work with people who have keen passion for innovation.<br>🌱 I’m currently learning Claude API, OpenClaw, N8N & AI Automation in WordPress<br>💬 Ask me about anything you like to know<br>⚡ Fun fact: I'm a SAAS Founder/CTO @Careerify | Full Stack Developer<br>⚡ Do follow or connect me I'm open to suggestions and collaboration<br><br>Hire me for any freelance project or startup collaboration. Just hit me up if you need my services!
 
 
 ## 🌐 Socials:
